@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /*background-size: auto;*/
+  padding: 25px;
+  margin-top: 100px;
+}
+
+.helloContainer {
+  font-family: "Times New Roman", Times, serif;
+  background-color: darkgrey;
+  /*opacity: 0.2;*/
+  font-style: italic;
+  font-size: 40px;
+  color: whitesmoke;
+  text-align: center;
+}
+
+.timeContainer {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 60px;
+  color: whitesmoke;
+  text-align: center;
+}
+
+.qouteContainer {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 30px;
+  color: whitesmoke;
+  text-align: center;
+}
